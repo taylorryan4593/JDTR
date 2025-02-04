@@ -27,7 +27,7 @@ export default function Hero() {
             Studios
           </h1>
           <p className="mx-auto max-w-[42rem] leading-normal text-white/80 sm:text-xl sm:leading-8">
-            We know restaurants and we know websites - this is now a test
+            We know restaurants and we know websites - this is now a test that i am testing
           </p>
         </div>
         <div className="flex gap-4">
